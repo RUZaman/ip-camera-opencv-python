@@ -7,5 +7,7 @@ run the app and click start server
 
 put the ip address that is provided on the app /
 then run this python program 
+this python code is collected from https://intellipaat.com/community/61475/access-ip-camera-in-python-opencv
+
 
 
